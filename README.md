@@ -5,8 +5,6 @@
 1. The Purpose, Cause & Believes (Why)
 2. The Goals (How)
 3. The Solutions (What)
-4. The Crew (Who)
-5. The Timeline (When)
 
 ## The Purpose, Cause & Believes
 
