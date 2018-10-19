@@ -10,9 +10,6 @@ Role of PO & UX : Account for client interests ; design the product ; split and 
 
 Develop the product
 
-# Saleman - Community Manager - Marketing
+## Saleman - Community Manager - Marketing
 
 Responsible for adoption
-
-#
-
