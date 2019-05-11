@@ -32,6 +32,9 @@ Self-explinatory. This is my main craft
 ## The Manager - support
 Ensure every roles have enough time to be usefull and on the page
 Bring the vision ; take important decision ; allocate resources ; make plans
+Ensure good mental & physics health
+Introspect systems to ensure projects continues
+Urge to work by batch to avoid multi-tasking and too many context switch
 
 ## The Social Guy (Love, Friends & Family)
 - Keep in touch with people
