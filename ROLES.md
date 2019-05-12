@@ -5,21 +5,21 @@ Simplify projects workflow, no matter the project. It could be :
 - food preparation
 This role is very technical-oriented
 
-## Environmental Quality - support
+## Environmental Quality - support
 Ensures that people are in the most suitable environment, for productivity, comfort, peace of mind
 - check no interruption occurs
 - reduce the needed work for housecare
 - support projects via environment
 - make things easier to do (could be in the house or with the computer)
 
-## Finance & Economy - support
+## Finance & Economy - support
 Controls cash flows. Find way to optimize spending. Search new incomes. Set budget
 
 ## Life Explorator
 Search to live new human experiences, to meet new people, try new things...
 Try to decrease fear of the unknow, fear of rejection, and other fears
 
-## Product Designer - craft
+## Product Designer - craft
 This is a combination of UX/UI/PO. Step in all projects
 
 ## Sales & Marketing - support
@@ -40,6 +40,6 @@ Urge to work by batch to avoid multi-tasking and too many context switch
 - Keep in touch with people
 - organize or participate to social event
 
-## The Wise
+## The Wise
 Learn new things that aren't correlated to other roles
 Discover new fields to study
