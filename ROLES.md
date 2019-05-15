@@ -1,3 +1,5 @@
+# Role definition
+
 ## Dev-Ops - support
 Simplify projects workflow, no matter the project. It could be :
 - software (from local env to world)
@@ -43,3 +45,9 @@ Urge to work by batch to avoid multi-tasking and too many context switch
 ## The Wise
 Learn new things that aren't correlated to other roles
 Discover new fields to study
+
+# Role attribution
+Role that have a lot of materials:
+- email digest
+- specific interests on broad general website (medium, YouTube, Reddit) or app (Keep)
+- that needs a clean environment to be focused
