@@ -7,6 +7,12 @@ Simplify projects workflow, no matter the project. It could be :
 - food preparation
 This role is very technical-oriented
 
+## Software Engineer - craft
+Self-explinatory. This is my main craft
+
+## Product Designer - craft
+This is a combination of UX/UI/PO. Step in all projects
+
 ## Environmental Quality - support
 Ensures that people are in the most suitable environment, for productivity, comfort, peace of mind
 - check no interruption occurs
@@ -17,19 +23,9 @@ Ensures that people are in the most suitable environment, for productivity, comf
 ## Finance & Economy - support
 Controls cash flows. Find way to optimize spending. Search new incomes. Set budget
 
-## Life Explorator
-Search to live new human experiences, to meet new people, try new things...
-Try to decrease fear of the unknow, fear of rejection, and other fears
-
-## Product Designer - craft
-This is a combination of UX/UI/PO. Step in all projects
-
 ## Sales & Marketing - support
 Ensure products meet their users
 Handle personal reputation
-
-## Software Engineer - craft
-Self-explinatory. This is my main craft
 
 ## The Manager - support
 Ensure every roles have enough time to be usefull and on the page
@@ -46,8 +42,17 @@ Urge to work by batch to avoid multi-tasking and too many context switch
 Learn new things that aren't correlated to other roles
 Discover new fields to study
 
+## Life Explorator
+Search to live new human experiences, to meet new people, try new things...
+Try to decrease fear of the unknow, fear of rejection, and other fears
+
 # Role attribution
 Role that have a lot of materials:
 - email digest
 - specific interests on broad general website (medium, YouTube, Reddit) or app (Keep)
 - that needs a clean environment to be focused
+
+Link
+ - Sales account with Finance
+ - DevOps with Software
+ - Manager with Wise, Social & Life Explorator
